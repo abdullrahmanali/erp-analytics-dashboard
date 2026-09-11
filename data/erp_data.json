@@ -1,0 +1,143 @@
+{
+  "monthly_sales": [
+    {
+      "month": "2026-01",
+      "revenue": 103070.96
+    },
+    {
+      "month": "2026-02",
+      "revenue": 71311.76
+    },
+    {
+      "month": "2026-03",
+      "revenue": 74994.92
+    },
+    {
+      "month": "2026-04",
+      "revenue": 33553.04
+    },
+    {
+      "month": "2026-05",
+      "revenue": 80731.22
+    },
+    {
+      "month": "2026-06",
+      "revenue": 56899.36
+    },
+    {
+      "month": "2026-07",
+      "revenue": 82184.47
+    },
+    {
+      "month": "2026-08",
+      "revenue": 66547.26
+    }
+  ],
+  "stagnant_items": [
+    {
+      "product_name": "A4 Paper Ream",
+      "stock_qty": 297
+    },
+    {
+      "product_name": "Desk Lamp",
+      "stock_qty": 129
+    }
+  ],
+  "top_products": [
+    {
+      "product_name": "Filing Cabinet",
+      "total_units_sold": 120
+    },
+    {
+      "product_name": "Conference Table",
+      "total_units_sold": 114
+    },
+    {
+      "product_name": "Laptop Stand",
+      "total_units_sold": 96
+    },
+    {
+      "product_name": "Desk Lamp",
+      "total_units_sold": 84
+    },
+    {
+      "product_name": "A4 Paper Ream",
+      "total_units_sold": 69
+    },
+    {
+      "product_name": "Office Chair",
+      "total_units_sold": 62
+    },
+    {
+      "product_name": "USB Cable",
+      "total_units_sold": 59
+    },
+    {
+      "product_name": "Printer Toner",
+      "total_units_sold": 47
+    }
+  ],
+  "top_customers": [
+    {
+      "customer_name": "Sara Al-Shehri",
+      "total_spent": 33968.71,
+      "orders_placed": 6
+    },
+    {
+      "customer_name": "Khalid Al-Otaibi",
+      "total_spent": 29371.1,
+      "orders_placed": 5
+    },
+    {
+      "customer_name": "Mona Al-Dosari",
+      "total_spent": 28848.99,
+      "orders_placed": 5
+    },
+    {
+      "customer_name": "Huda Al-Shehri",
+      "total_spent": 27828.24,
+      "orders_placed": 4
+    },
+    {
+      "customer_name": "Khalid Al-Zahrani",
+      "total_spent": 25224.94,
+      "orders_placed": 3
+    }
+  ],
+  "status_breakdown": [
+    {
+      "status": "Delivered",
+      "n": 104
+    },
+    {
+      "status": "Pending",
+      "n": 81
+    },
+    {
+      "status": "Cancelled",
+      "n": 71
+    }
+  ],
+  "revenue_by_city": [
+    {
+      "city": "Khobar",
+      "revenue": 189832.28
+    },
+    {
+      "city": "Dammam",
+      "revenue": 164173.74
+    },
+    {
+      "city": "Riyadh",
+      "revenue": 112994.83
+    },
+    {
+      "city": "Jubail",
+      "revenue": 81550.88
+    },
+    {
+      "city": "Al Khobar",
+      "revenue": 20741.26
+    }
+  ]
+}
