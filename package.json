@@ -1,0 +1,20 @@
+{
+  "name": "erp-analytics-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "cd client && bun build.js",
+    "server": "bun run server/server.js",
+    "dev": "bun run build && bun run server"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
